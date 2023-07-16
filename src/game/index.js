@@ -1,0 +1,5 @@
+export { default as addCell } from './addCell'
+export { default as createCell } from './createCell'
+export { default as initCells } from './initCells'
+export { default as moveCells } from './moveCells'
+export { default as updateMergedCells } from './updateMergedCells'
